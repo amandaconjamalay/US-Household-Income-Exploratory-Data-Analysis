@@ -1,7 +1,7 @@
 # US-Household-Income-Exploratory-Data-Analysis
 
 ## Overview
-Performing Exploratory Data Analysis on US Household Income data to  identify geographic and demographic income patterns.
+Performing Exploratory Data Analysis on US Household Income data to identify geographic and demographic income patterns.
 
 ## Datasets
 * us_household_income
